@@ -79,9 +79,27 @@ a {
     color: black;
   }
 
-  header {
+  .header1 {
     text-align: center;
     background-image: url(./pictures/swift.webp);
+    background-size: cover;
+    margin-bottom: 40px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+  }
+
+  .header2 {
+    text-align: center;
+    background-image: url(./pictures/LWND.webp);
+    background-size: cover;
+    margin-bottom: 40px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+  }
+
+  .header3 {
+    text-align: center;
+    background-image: url(./pictures/IDbackground.webp);
     background-size: cover;
     margin-bottom: 40px;
     font-family: 'Trebuchet MS', sans-serif;
