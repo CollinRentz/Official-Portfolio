@@ -203,6 +203,7 @@ a {
   }
 
   #experience {
+    text-align: center;
     font-size: 50px;
     width: max-content;
     padding: 20px;
