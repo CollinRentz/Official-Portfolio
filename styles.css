@@ -47,7 +47,7 @@ color: #ffffff;
 }
 #aalogo:hover {
   cursor: pointer;
-  transition: all 1.0s ease-in-out;
+  transition: all 0.5s ease-in-out;
   transform: scale(1.1);
   }
 
@@ -64,7 +64,7 @@ color: #ffffff;
 }
 .contactbutton:hover {
   cursor: pointer;
-  transition: all 1.0s ease-in-out;
+  transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
   
@@ -245,7 +245,7 @@ a {
 }
 .appLink:hover {
   cursor: pointer;
-  transition: all 1.0s ease-in-out;
+  transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
 
@@ -258,7 +258,7 @@ a {
 }
 .linkedinLink:hover {
   cursor: pointer;
-  transition: all 1.0s ease-in-out;
+  transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
 
@@ -271,7 +271,7 @@ a {
 }
 .gitlink:hover {
   cursor: pointer;
-  transition: all 1.0s ease-in-out;
+  transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
 
@@ -307,7 +307,7 @@ a {
     width: 300px;
   }
     #crPicBtn:hover {
-      transition: all 1.0s ease-in-out;
+      transition: all 0.5s ease-in-out;
       transform: scale(1.1);
     }
    
