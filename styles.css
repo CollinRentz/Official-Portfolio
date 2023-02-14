@@ -278,6 +278,16 @@ a {
   transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
+.WOMgitlink {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.WOMgitlink:hover {
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.1);
+}
 
 #nested-images {
   display: flex;
