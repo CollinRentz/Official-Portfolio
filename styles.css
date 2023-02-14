@@ -391,6 +391,9 @@ a {
   #SharkConservation {
       width: 300px;
   }
+  #inProgress {
+    width: 300px;
+}
   #artCard4 {
     color: white;
     width: 300px;
