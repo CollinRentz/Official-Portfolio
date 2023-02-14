@@ -292,11 +292,11 @@ a {
     width: 300px;
   }
     #crPicBtn:grow {
-      transition: all 1.0s ease-in-out;
+      transition: all 2.0s ease-in-out;
     }
 
       #crPicBtn:hover {
-        transform: scale(1.2);
+        transform: scale(1.1);
       }
    
 
