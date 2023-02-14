@@ -40,7 +40,8 @@ color: #ffffff;
 }
 .Instalink:hover {
   cursor: pointer;
-  opacity: 0.7;
+  transition: all 1.0s ease-in-out;
+  transform: scale(1.1);
 }
 
   #contact {
@@ -56,7 +57,8 @@ color: #ffffff;
 }
 .contactbutton:hover {
   cursor: pointer;
-  opacity: 0.7;
+  transition: all 1.0s ease-in-out;
+  transform: scale(1.1);
 }
   
 a {
@@ -128,6 +130,9 @@ a {
   .navbar a:hover {
     background: #ddd;
     color: black;
+    cursor: pointer;
+    transition: all 1.0s ease-in-out;
+    transform: scale(1.1);
   }
 
   #midLine {
@@ -233,7 +238,8 @@ a {
 }
 .appLink:hover {
   cursor: pointer;
-  opacity: 0.7;;
+  transition: all 1.0s ease-in-out;
+  transform: scale(1.1);
 }
 
 .linkedinLink {
@@ -245,7 +251,8 @@ a {
 }
 .linkedinLink:hover {
   cursor: pointer;
-  opacity: 0.7;;
+  transition: all 1.0s ease-in-out;
+  transform: scale(1.1);
 }
 
 .gitlink {
@@ -257,7 +264,8 @@ a {
 }
 .gitlink:hover {
   cursor: pointer;
-  opacity: 0.7;
+  transition: all 1.0s ease-in-out;
+  transform: scale(1.1);
 }
 
 #nested-images {
