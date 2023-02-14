@@ -317,10 +317,10 @@ a {
       transform: scale(1.1);
     }
   
-  #WOMPicBtn {
+  #wheelOfMeals {
     width: 300px;
   }
-    #WOMPicBtn:hover {
+    #wheelOfMeals:hover {
       cursor: pointer;
       transition: all 0.5s ease-in-out;
       transform: scale(1.1);
