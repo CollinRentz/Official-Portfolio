@@ -317,6 +317,7 @@ a {
       transform: scale(1.1);
     }
   
+
   #wheelOfMeals {
     width: 300px;
   }
@@ -325,7 +326,16 @@ a {
       transition: all 0.5s ease-in-out;
       transform: scale(1.1);
     }
-   
+  #inProgress {
+    width: 300px;
+  }
+    #inProgress:hover {
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+      transform: scale(1.1);
+    }
+
+    
     #emptySpace {
       width: 50px;
     }
