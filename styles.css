@@ -399,8 +399,10 @@ a {
   }
   #inProgress {
     width: 300px;
-    text-align: center;
 }
+  #nextProjectText {
+    text-align: center;
+  }
   #artCard4 {
     color: white;
     width: 300px;
