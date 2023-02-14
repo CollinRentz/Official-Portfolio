@@ -399,6 +399,7 @@ a {
   }
   #inProgress {
     width: 300px;
+    text-align: center;
 }
   #artCard4 {
     color: white;
