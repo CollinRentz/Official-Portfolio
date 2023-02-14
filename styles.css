@@ -312,6 +312,16 @@ a {
     align-items: center;
   }
     #crPicBtn:hover {
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+      transform: scale(1.1);
+    }
+  
+  #WOMPicBtn {
+    align-items: center;
+  }
+    #WOMPicBtn:hover {
+      cursor: pointer;
       transition: all 0.5s ease-in-out;
       transform: scale(1.1);
     }
