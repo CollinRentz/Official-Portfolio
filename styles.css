@@ -334,8 +334,23 @@ a {
       transition: all 0.5s ease-in-out;
       transform: scale(1.1);
     }
+  #artPortfolio {
+    width: 300px;
+  }
+    #artPortfolio:hover {
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+      transform: scale(1.1);
+    }
+  #portfolio {
+    width: 300px;
+  }
+    #portfolio:hover {
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+      transform: scale(1.1);
+    }
 
-    
     #emptySpace {
       width: 50px;
     }
