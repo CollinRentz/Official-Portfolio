@@ -288,6 +288,14 @@ a {
     width: 300px;
   }
 
+  #crPicBtn {
+    width: 300px;
+  }
+    #crPicBtn:hover {
+      opacity: 0.7;
+      cursor: pointer;
+    }
+
   #mePic {
     width: 500px;
   }
