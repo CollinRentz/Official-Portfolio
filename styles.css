@@ -286,7 +286,7 @@ a {
 .WOMgitlink:hover {
   cursor: pointer;
   transition: all 0.5s ease-in-out;
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 .Youtubelink {
   display: flex;
@@ -296,7 +296,7 @@ a {
 .Youtubelink:hover {
   cursor: pointer;
   transition: all 0.5s ease-in-out;
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 
 #nested-images {
