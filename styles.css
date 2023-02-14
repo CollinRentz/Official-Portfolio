@@ -278,6 +278,13 @@ a {
   transition: all 0.5s ease-in-out;
   transform: scale(1.1);
 }
+.WOMcardLinkRows {
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 40px;
+}
 .WOMgitlink {
   display: flex;
   justify-content: center;
@@ -289,7 +296,7 @@ a {
   transition: all 0.5s ease-in-out;
   transform: scale(1.5);
 }
-.Youtubelink {
+.WOMYoutubelink {
   display: flex;
   justify-content: center;
   margin: auto;
