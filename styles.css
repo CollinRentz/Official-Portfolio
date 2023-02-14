@@ -291,13 +291,10 @@ a {
   #crPicBtn {
     width: 300px;
   }
-    #crPicBtn:grow {
+    #crPicBtn:hover {
       transition: all 2.0s ease-in-out;
+      transform: scale(1.1);
     }
-
-      #crPicBtn:hover {
-        transform: scale(1.1);
-      }
    
 
   #mePic {
