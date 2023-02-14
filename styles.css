@@ -381,17 +381,11 @@ a {
   #ATreesAwakening {
     width: 300px;
   }
-  #artPortfolio {
-    width: 300px;
-  }
   #artCard2 {
     color: white;
     width: 300px;
   }
   #LWND {
-    width: 300px;
-  }
-  #wheelofMeals {
     width: 300px;
   }
   #artCard3 {
@@ -401,9 +395,6 @@ a {
   #SharkConservation {
       width: 300px;
   }
-  #inProgress {
-    width: 300px;
-}
   #nextProjectText {
     text-align: center;
   }
@@ -469,6 +460,19 @@ a {
   }
   #BFIDD {
       width: 300px;
+  }
+
+  #artPortfolio {
+    width: 300px;
+  }
+  #wheelofMeals {
+    width: 300px;
+  }
+  #inProgress {
+    width: 300px;
+  }
+  #portfolio {
+    width: 300px;
   }
   
 
