@@ -317,10 +317,10 @@ a {
       transform: scale(1.1);
     }
   
-  .WOMPicBtn {
+  #WOMPicBtn {
     width: 300px;
   }
-    .WOMPicBtn:hover {
+    #WOMPicBtn:hover {
       cursor: pointer;
       transition: all 0.5s ease-in-out;
       transform: scale(1.1);
@@ -477,9 +477,6 @@ a {
   }
 
   #artPortfolio {
-    width: 300px;
-  }
-  #wheelofMeals {
     width: 300px;
   }
   #inProgress {
