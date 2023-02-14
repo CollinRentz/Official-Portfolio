@@ -318,6 +318,7 @@ a {
     }
   
   #WOMPicBtn {
+    width: 300px;
     align-items: center;
   }
     #WOMPicBtn:hover {
