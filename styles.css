@@ -306,6 +306,52 @@ gap: 10px;
   transform: scale(1.5);
 }
 
+.artPortfolioCardLinkRows {
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.artPortfolioGitLink {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.artPortfolioGitLink:hover {
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.5);
+}
+.artPortfolioYoutubelink {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.artPortfolioYoutubelink:hover {
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.5);
+}
+
+.officialPortfolioCardLinkRows {
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.officialPortfolioGitLink {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.officialPortfolioGitLink:hover {
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.5);
+}
+
 #nested-images {
   display: flex;
   flex-direction: column;
