@@ -92,6 +92,19 @@ a {
     color: #f9f9f9;
   }
 
+  #ArtTitle1 {
+    padding-top: 225px;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: black;
+  }
+
+  #ArtTitle2 {
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: black;
+  }
+
   .header1 {
     text-align: center;
     background-image: url(./pictures/swift.webp);
