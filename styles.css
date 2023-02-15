@@ -92,19 +92,6 @@ a {
     color: #f9f9f9;
   }
 
-  #ArtTitle1 {
-    padding-top: 225px;
-    font-size: 50px;
-    letter-spacing: 10px;
-    color: black;
-  }
-
-  #ArtTitle2 {
-    font-size: 10px;
-    letter-spacing: 2px;
-    color: #f9f9f9;
-  }
-
   .header1 {
     text-align: center;
     background-image: url(./pictures/swift.webp);
@@ -116,7 +103,7 @@ a {
 
   .header2 {
     text-align: center;
-    background-image: url(./pictures/ATreesAwakeningbackground.webp);
+    background-image: url(./pictures/LWND.webp);
     background-size: cover;
     margin-bottom: 40px;
     font-family: 'Trebuchet MS', sans-serif;
