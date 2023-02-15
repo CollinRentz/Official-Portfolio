@@ -306,6 +306,15 @@ gap: 10px;
   transform: scale(1.5);
 }
 
+#bottomLine {
+  height: 3px;
+  width: 100%;
+  background: #F1D047;
+  position: relative;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
 .artPortfolioCardLinkRows {
   display: flex;
 flex-direction: row;
