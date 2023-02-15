@@ -236,8 +236,9 @@ a {
 
 #nested-links {
   display: flex;
-    flex-direction: row;
-    align-items: flex-start;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
 }
 
 .appLink {
