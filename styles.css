@@ -84,7 +84,6 @@ a {
     font-size: 50px;
     letter-spacing: 10px;
     color: #f9f9f9;
-    height: 645px;
     width: 100%;
   }
 
@@ -97,7 +96,7 @@ a {
   .header1 {
     text-align: center;
     background-image: url(./pictures/swift.webp);
-    background-size: cover;
+    background-size: auto;
     margin-bottom: 40px;
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
