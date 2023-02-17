@@ -96,7 +96,7 @@ a {
   .header1 {
     text-align: center;
     background-image: url(./pictures/swift.webp);
-    background-size: contain;
+    background-size: 100%;
     margin-bottom: 40px;
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
